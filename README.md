@@ -1,4 +1,4 @@
-[![RielChan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RielChan)]
+[![RielChan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RielChan)]
 
 <!--
 **RielChan/RielChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
